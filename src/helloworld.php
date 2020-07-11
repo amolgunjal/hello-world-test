@@ -1,6 +1,6 @@
 <?php
 
-namespace Amolg\HelloWorld;
+namespace HelloWorld;
 
 class HelloWorld
 {
